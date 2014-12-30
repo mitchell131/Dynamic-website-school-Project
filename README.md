@@ -43,6 +43,3 @@ Beyond the basic file management capabilities you could also consider adding the
 • User preferences which alter the interface depending on who logs in.
 • Auto-update of files so when a Website has been updated locally all new files can be uploaded.
 • Support for mobile device (‘phone or PDA etc.)
-Remember, it is the blog that is actually assessed!
-9
-
